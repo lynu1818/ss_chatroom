@@ -1,0 +1,18 @@
+.sign-up-btn {
+  background-color: #6096ba !important;
+  color: white !important;
+}
+
+.sign-up-btn:hover {
+  background-color: #274c77 !important;
+  color: white !important;
+}
+
+.sign-up-btn:active {
+  background-color: #6096ba !important;
+  color: white !important;
+}
+
+.sign-in-link {
+  color: #6096ba !important;
+}

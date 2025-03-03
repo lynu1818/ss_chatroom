@@ -1,0 +1,51 @@
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.scale-up {
+  transform: scale(1.1);
+  transform-origin: center;
+}
+
+.bounce {
+  animation: bounce 2s infinite;
+}
+
+.sign-in-btn-home {
+  background-color: #6096ba !important;
+  color: white !important;
+}
+
+.sign-in-btn-home:hover {
+  background-color: #274c77 !important;
+  color: white !important;
+}
+
+.sign-in-btn-home:active {
+  background-color: #6096ba !important;
+  color: white !important;
+}
+
+.sign-up-btn-home {
+  background-color: #e7ecef !important;
+}
+
+.sign-up-btn-home:hover {
+  background-color: #c0c0c0 !important;
+}
+
+.sign-up-btn-home:active {
+  background-color: #e7ecef !important;
+}

@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+### How to setup your project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Describe STEP by STEP (i.e. `cd Midterm`, `npm install` ...)
 
-## Available Scripts
+  1. npm install
+  2. npm start
 
-In the project directory, you can run:
+### How to use
 
-### `npm start`
+- Describe how to use your web and maybe insert images or gifs to help you explain.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.  #### Sign Up or Log In
+    If you're new to the app, you'll need to create an account. Simply click on the Sign Up button and fill in the required fields. If you already have an account, just enter your credentials and log in. You can also sign in quickly using your Google account.
+    ![alt text](image.png)
+    ![alt text](image-1.png)
+    ![alt text](image-3.png)
+2.  #### Navigate the Main Page
+    Once you're signed in, you'll land on the main page. Here, you can get a quick overview of various features the app offers.
+    ![alt text](image-5.png)
+3.  #### Edit Your Profile
+    To personalize your experience, head over to your profile page. Here, you can upload a profile picture, set a unique display name, update your birthday, and craft a status message to let your friends know what you’re up to.
+    ![alt text](image-6.png)
+4.  #### Add Friends
+    As a new user, your friend list might be empty. Just visit the Explore tab. Here you can discover other users and send friend requests.
+    ![alt text](image-7.png)
+5.  #### Manage Your Friend List
+    After adding some friends, you can view and manage your friend list under the Friends tab. You can also remove friends if needed by clicking the Remove Friend option.
+    ![alt text](image-8.png)
+6.  #### Start Chatting
+    Go to the Chat tab, select a friend, and start a conversation. If you ever need to unsend a message, just click the unsend button.
+    ![alt text](image-9.png)
+    ![alt text](image-11.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Function description
 
-### `npm test`
+- Describe your bonus function and how to use it.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. #### Navigating to Chat
+   To start chatting, simply click on the Go To Chat button.
+   ![alt text](image-12.png)
+2. #### Adding and Removing Friends
+   ![alt text](image-13.png)
+3. #### Automatic Scrolling in Chatrooms
+   The chat application ensures you always see the most recent messages without manual scrolling. When you enter any chatroom, the application automatically scrolls to the bottom where the latest messages are displayed.
+4. #### Profile Customization
+   Personalize your profile by uploading a profile picture, setting a birthday, updating your status message, and choosing a display name.
+5. #### Unsend Messages
+   Simply click on the unsend button.
 
-### `npm run build`
+### Firebase page link
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- `https://chatroom-6f533.web.app`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<style>
+table th{
+    width: 100%;
+}
+</style>
