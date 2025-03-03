@@ -1,7 +1,7 @@
 ### How to setup the project
-
-  1. npm install
-  2. npm start
+run: 
+  1. `npm install`
+  2. `npm start`
 
 ### How to use
 
