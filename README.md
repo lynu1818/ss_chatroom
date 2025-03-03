@@ -1,13 +1,9 @@
-### How to setup your project
-
-- Describe STEP by STEP (i.e. `cd Midterm`, `npm install` ...)
+### How to setup the project
 
   1. npm install
   2. npm start
 
 ### How to use
-
-- Describe how to use your web and maybe insert images or gifs to help you explain.
 
 1.  #### Sign Up or Log In
     If you're new to the app, you'll need to create an account. Simply click on the Sign Up button and fill in the required fields. If you already have an account, just enter your credentials and log in. You can also sign in quickly using your Google account.
@@ -33,8 +29,6 @@
 
 ### Function description
 
-- Describe your bonus function and how to use it.
-
 1. #### Navigating to Chat
    To start chatting, simply click on the Go To Chat button.
    ![alt text](imgs/image-12.png)
@@ -50,9 +44,3 @@
 ### Firebase page link
 
 - `https://chatroom-6f533.web.app`
-
-<style>
-table th{
-    width: 100%;
-}
-</style>
